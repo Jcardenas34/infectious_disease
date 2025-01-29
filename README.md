@@ -19,9 +19,9 @@ Through processing this dataset with Pandas and Seaborn, I was able to identify 
 
 | Los Angeles County |  San Diego County |Orange County |
 |--------------------|--------------|------------------|
-| ![Los Angeles](./disease_prevalence_LosAngeles.png) | ![San Diego](./disease_prevalence_SanDiego.png) | ![Orange](./disease_prevalence_Orange.png) | 
-| ![Los Angeles](LosAngeles/Cases_Campylobacteriosis_LosAngeles.png) | ![San Diego](SanDiego/Cases_Campylobacteriosis_SanDiego.png) | ![Orange](Orange/Cases_Campylobacteriosis_Orange.png) |
-| ![Los Angeles](LosAngeles/Cases_Salmonellosis_LosAngeles.png) | ![San Diego](SanDiego/Cases_Salmonellosis_SanDiego.png) | ![Orange](Orange/Cases_Salmonellosis_Orange.png) |
+| ![Los Angeles](plots/disease_prevalence_LosAngeles.png) | ![San Diego](plots/disease_prevalence_SanDiego.png) | ![Orange](plots/disease_prevalence_Orange.png) | 
+| ![Los Angeles](plots/LosAngeles/Cases_Campylobacteriosis_LosAngeles.png) | ![San Diego](plots/SanDiego/Cases_Campylobacteriosis_SanDiego.png) | ![Orange](plots/Orange/Cases_Campylobacteriosis_Orange.png) |
+| ![Los Angeles](plots/LosAngeles/Cases_Salmonellosis_LosAngeles.png) | ![San Diego](plots/SanDiego/Cases_Salmonellosis_SanDiego.png) | ![Orange](plots/Orange/Cases_Salmonellosis_Orange.png) |
 
 From these plots we can observe that the incidence rate of Campylobacteriosis is on a steady incline, while [Salmonellosis](https://www.cdc.gov/salmonella/about/index.html) sees only slight growth. We observe a slight reduction in the number of cases during the year 2020 in both diseases, no doubt caused by the under-reporting of cases during the height of the COVID-19 pandemic, or by the potential reduced consumption of poultry in this same period. 
 
@@ -36,5 +36,5 @@ git clone git@github.com:Jcardenas34/infectious_disease.git
 cd infectious_disease
 wget https://data.chhs.ca.gov/gl/dataset/infectious-disease/odp_idb_2001-2023_ddg_compliant.csv
 ```
-Most of the work has been done in the [infectious_disease_incidence_rate_per_county_per_year.ipynb](./infectious_disease_incidence_rate_per_county_per_year.ipynb)
+Most of the work has been done in the [infectious_disease_incidence_rate_per_county_per_year.ipynb](notebooks/infectious_disease_incidence_rate_per_county_per_year.ipynb)
 jupyter notebook
