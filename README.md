@@ -27,7 +27,7 @@ From these plots we can observe that the incidence rate of Campylobacteriosis is
 
 
 # Actionable insights
-Given that the top 2 infectious diseases in these counties are food borne illnesses, perhaps a public health announcement on how to properly prepare poultry for consumption would help curb the incidence rate of this disease. (*Not adjusted for growth in population throughout this period)
+Given that the top 3 infectious diseases in these counties are food borne illnesses, perhaps a public health announcement on how to properly prepare poultry for consumption would help curb the incidence rate of this disease. (*Not adjusted for growth in population throughout this period)
 
 # Set up the work environment
 
