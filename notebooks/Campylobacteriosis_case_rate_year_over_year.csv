@@ -1,0 +1,24 @@
+Disease,County,Year,Sex,Cases,Population,Rate
+Campylobacteriosis,Los Angeles,2001,Total,1221.0,9635795,0.012671502455168463
+Campylobacteriosis,Los Angeles,2002,Total,1154.0,9722444,0.011869443526751093
+Campylobacteriosis,Los Angeles,2003,Total,1146.0,9791022,0.011704600398201537
+Campylobacteriosis,Los Angeles,2004,Total,950.0,9822508,0.009671664304065724
+Campylobacteriosis,Los Angeles,2005,Total,777.0,9809557,0.00792084698626044
+Campylobacteriosis,Los Angeles,2006,Total,818.0,9787327,0.008357746706531824
+Campylobacteriosis,Los Angeles,2007,Total,868.0,9773894,0.008880800221487977
+Campylobacteriosis,Los Angeles,2008,Total,1138.0,9796812,0.011616023661574807
+Campylobacteriosis,Los Angeles,2009,Total,1189.0,9805233,0.012126177929683058
+Campylobacteriosis,Los Angeles,2010,Total,1302.0,9818603,0.013260542258404786
+Campylobacteriosis,Los Angeles,2011,Total,1310.0,9893861,0.013240533700645278
+Campylobacteriosis,Los Angeles,2012,Total,1603.0,9970512,0.016077409063847473
+Campylobacteriosis,Los Angeles,2013,Total,1783.0,10012612,0.017807541129127944
+Campylobacteriosis,Los Angeles,2014,Total,1573.0,10052498,0.015647851907058325
+Campylobacteriosis,Los Angeles,2015,Total,1718.0,10083826,0.017037184100558656
+Campylobacteriosis,Los Angeles,2016,Total,1655.0,10099858,0.016386368996475
+Campylobacteriosis,Los Angeles,2017,Total,1862.0,10114636,0.01840896696628529
+Campylobacteriosis,Los Angeles,2018,Total,2001.0,10100671,0.019810565060479644
+Campylobacteriosis,Los Angeles,2019,Total,2248.0,10063851,0.022337373635599334
+Campylobacteriosis,Los Angeles,2020,Total,1443.0,10013543,0.014410483881679042
+Campylobacteriosis,Los Angeles,2021,Total,1917.0,9905214,0.019353443550033347
+Campylobacteriosis,Los Angeles,2022,Total,2137.0,9792167,0.021823565713289
+Campylobacteriosis,Los Angeles,2023,Total,2782.0,9750065,0.028533143112379252

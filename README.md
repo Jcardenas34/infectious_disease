@@ -26,8 +26,18 @@ Through processing this dataset with Pandas and Seaborn, I was able to identify 
 From these plots we can observe that the incidence rate of Campylobacteriosis is on a steady incline, while [Salmonellosis](https://www.cdc.gov/salmonella/about/index.html) sees only slight growth. We observe a slight reduction in the number of cases during the year 2020 in both diseases, no doubt caused by the under-reporting of cases during the height of the COVID-19 pandemic, or by the potential reduced consumption of poultry in this same period. 
 
 
-# Actionable insights
+# Actionable Insights
 Given that the top 3 infectious diseases in these counties are food borne illnesses, perhaps a public health announcement on how to properly prepare poultry for consumption would help curb the incidence rate of this disease. (*Not adjusted for growth in population throughout this period)
+
+#  Additional Insights
+
+After further analysis of the Campylobacteriosis disease trends for Los Angeles county, I show that the predicted case count for in LA county for the year 2024 is 2780.26, obtained using a Gradient Boost Regressor. This prediction is shown to the in best alignment with the predicted data due to its low MSE error with the data points observed. More details can be seen here [predict_disease_case_number.ipynb](./notebooks/predict_disease_case_number.ipynb). Interestingly, case count and population size here have a negative correlation.
+
+
+| Campylobacteriosis Case Rate Projection, LA County |  Case Rate and Population Trends |
+|--------------------|--------------|
+| ![Los Angeles](./plots/case_projection_Campylobacteriosis_LA_county.png)| ![San Diego](./plots/population_and_case_trends_Campylobacteriosis_LA_county.png) |
+
 
 # Set up the work environment
 
